@@ -32,10 +32,7 @@ Custom Styling with shadows, rounded corners, and hover effects
 
 🚀 Usage
 
-Clone this repository or download the files.
-
-git clone https://github.com/your-username/teachers-day-card.git
-cd teachers-day-card
+link: https://baldoiso.github.io/Teache-sdaymessagecard/
 
 
 Open index.html in your browser.
